@@ -17,7 +17,7 @@ This Python-based project crawls data from Wikipedia using Apache Airflow, clean
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/airscholar/FootballDataEngineering.git
+   git clone https://github.com/airscholar/FootballDataEngineering.git](https://github.com/KhushJani/Football-Data-Analytics---End-to-End-Data-Pipeline.git
    ```
 
 2. Install Python dependencies.
