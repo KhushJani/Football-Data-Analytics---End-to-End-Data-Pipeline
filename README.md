@@ -1,6 +1,6 @@
 # Football-Data-Analytics---End-to-End-Data-Pipeline
 
-This Python-based project crawls data from Wikipedia using Apache Airflow, cleans it and pushes it Azure Data Lake for processing.
+This project implements a comprehensive data pipeline for football analytics, leveraging Python, Apache Airflow, and Azure Data Lake. The system automates data extraction from Wikipedia, cleans and transforms the data, and stores it in Azure Data Lake for further processing and analysis. The pipeline is designed for scalability and integration with various data visualization tools such as Databricks, Power BI, Tableau, and Looker Studio.
 
 
 ## System Architecture
